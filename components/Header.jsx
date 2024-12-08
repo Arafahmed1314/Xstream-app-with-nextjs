@@ -44,7 +44,7 @@ export default function Header() {
           alt="User Avatar"
           className="w-8 h-8 rounded-full"
         />
-        {/* <Language /> */}
+        <Language />
       </div>
     </header>
   );
